@@ -229,7 +229,7 @@ We added API Gateway and connected it to our existing Lambda function. Now, we c
 
 ![image](https://user-images.githubusercontent.com/98637502/216760815-b47e2818-6fc8-443e-ac42-02d7b40ebf29.png)
 
-#Create DynamoDB Table
+# Create DynamoDB Table
 
 Create the DynamoDB table that the Lambda function uses.
 
